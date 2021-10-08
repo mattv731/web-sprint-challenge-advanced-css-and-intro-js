@@ -226,6 +226,9 @@ button:hover {
   nav {
     width: 50%;
   }
+  .homeButton {
+    font-weight: bold;
+  }
   a {
     font-size: 2rem;
   }
